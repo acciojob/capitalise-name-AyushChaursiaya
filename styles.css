@@ -1,4 +1,1 @@
 /*  your css code here. If applicable */
-function convertToUpperCase(element) {
-  element.value = element.value.toUpperCase();
-}
